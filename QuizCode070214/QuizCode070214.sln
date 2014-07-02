@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizCode070214", "QuizCode070214\QuizCode070214.csproj", "{2656122E-0E0B-4431-99F8-81858A55E499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{4EF43D3C-F0DC-4AD9-984F-D0998BB15666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{4443A186-7284-4FBB-B1D2-ED5357B53BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2656122E-0E0B-4431-99F8-81858A55E499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2656122E-0E0B-4431-99F8-81858A55E499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2656122E-0E0B-4431-99F8-81858A55E499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2656122E-0E0B-4431-99F8-81858A55E499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF43D3C-F0DC-4AD9-984F-D0998BB15666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF43D3C-F0DC-4AD9-984F-D0998BB15666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF43D3C-F0DC-4AD9-984F-D0998BB15666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF43D3C-F0DC-4AD9-984F-D0998BB15666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4443A186-7284-4FBB-B1D2-ED5357B53BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4443A186-7284-4FBB-B1D2-ED5357B53BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4443A186-7284-4FBB-B1D2-ED5357B53BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4443A186-7284-4FBB-B1D2-ED5357B53BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
