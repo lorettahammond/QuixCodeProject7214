@@ -5,20 +5,19 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace QuizCode070214
-
-
 {
-    public static class Smallest
+    class Program
     {
-        
-        public static int Min(int x, int y)         
+        static void Main(string{} args)
         {
-            return Smallest.Min(x, y);
+            var smallest = SmallerValue(56, 35);
+
+            Console.WriteLine(smallest);
         }
-                     
-        public static int Max(params int[] values)
+
+        private static object SmallerValue(int left, int right)
         {
-            return Enumerable.Max(values);
+            return Math.Min(left, right);
         }
     }
 }
